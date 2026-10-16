@@ -1,0 +1,7 @@
+target/
+*.log
+.env
+.idea/
+*.iml
+# Spring Initializr boilerplate
+HELP.md
